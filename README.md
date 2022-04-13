@@ -1,4 +1,4 @@
-### Blueneek-Django Backend Project
+### Blueneek-Django Python Backend
 
 
 #### This is A Demo Video for Project:
